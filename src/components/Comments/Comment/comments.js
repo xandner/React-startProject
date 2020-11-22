@@ -10,6 +10,7 @@ const Comment= (props) =>{
                 <h5>{props.fullName}</h5>
                 <div className={"pull-left"}>{faker.date.recent().toDateString()}</div>
                 <p>{props.description}</p>
+
             </div>
 
         </div>

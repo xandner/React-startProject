@@ -1,0 +1,17 @@
+.post{
+    border: 1px solid #ccc;
+     padding: 10px;
+    margin-left: 20px;
+}
+.full-post{
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-left: 20px;
+}
+.new-post{
+    margin-bottom: 30px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-left: 20px;
+}
